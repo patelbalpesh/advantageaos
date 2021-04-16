@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mavenproject.UFTDeveloperTest" duration-ms="47417" started-at="2021-04-15T18:08:43Z" finished-at="2021-04-15T18:09:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47417" started-at="2021-04-15T18:08:43Z" finished-at="2021-04-15T18:09:31Z">
+      <class name="mavenproject.UFTDeveloperTest">
+        <test-method status="PASS" signature="baseBeforeSuite()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="baseBeforeSuite" is-config="true" duration-ms="9499" started-at="2021-04-15T23:38:34Z" finished-at="2021-04-15T23:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeSuite -->
+        <test-method status="PASS" signature="baseBeforeClass(org.testng.ITestContext)[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="baseBeforeClass" is-config="true" duration-ms="3" started-at="2021-04-15T23:38:43Z" finished-at="2021-04-15T23:38:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1e461e41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-04-15T23:38:43Z" finished-at="2021-04-15T23:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="baseBeforeMethod([Ljava.lang.Object;, org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="baseBeforeMethod" is-config="true" duration-ms="2" started-at="2021-04-15T23:38:43Z" finished-at="2021-04-15T23:38:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5ba88be8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@1e461e41]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void mavenproject.UFTDeveloperTest.test() throws com.hp.lft.sdk.GeneralLeanFtException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-04-15T23:38:43Z" finished-at="2021-04-15T23:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="test" duration-ms="47386" started-at="2021-04-15T23:38:43Z" finished-at="2021-04-15T23:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-04-15T23:39:31Z" finished-at="2021-04-15T23:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="baseAfterMethod(org.testng.ITestResult)[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="baseAfterMethod" is-config="true" duration-ms="1" started-at="2021-04-15T23:39:31Z" finished-at="2021-04-15T23:39:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=UFTDeveloperTest.test()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-04-15T23:39:31Z" finished-at="2021-04-15T23:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="baseAfterClass(org.testng.ITestContext)[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="baseAfterClass" is-config="true" duration-ms="0" started-at="2021-04-15T23:39:31Z" finished-at="2021-04-15T23:39:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1e461e41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterClass -->
+        <test-method status="PASS" signature="baseAfterSuite()[pri:0, instance:mavenproject.UFTDeveloperTest@4909b8da]" name="baseAfterSuite" is-config="true" duration-ms="1668" started-at="2021-04-15T23:39:31Z" finished-at="2021-04-15T23:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterSuite -->
+      </class> <!-- mavenproject.UFTDeveloperTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- mavenproject.UFTDeveloperTest -->
+</testng-results>
